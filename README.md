@@ -106,8 +106,12 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
 <hr>
+<hr>
+<h3>Output</h3>
+<hr>
+<img width="534" height="367" alt="image" src="https://github.com/user-attachments/assets/07367ac3-4d2a-48a1-b434-f2d084a7e8f3" />
+
 
 <hr>
 <h3>Sample Input</h3>
@@ -122,6 +126,11 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+<hr>
+<h3>Output</h3>
+<hr>
+<img width="440" height="290" alt="image" src="https://github.com/user-attachments/assets/34fa84d6-0b98-499f-ac16-8c4b9d5be615" />
+
 
 <hr>
 <h3>RESULT:</h3>
